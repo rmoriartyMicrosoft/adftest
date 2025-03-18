@@ -3,7 +3,7 @@
 	"properties": {
 		"activities": [
 			{
-				"name": "Webtest",
+				"name": "Webtesttest",
 				"type": "WebActivity",
 				"dependsOn": [],
 				"policy": {
